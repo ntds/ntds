@@ -18,7 +18,12 @@ Here are some ideas to get you started:
 # 💻 Tech Stack:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,php,arduino,bootstrap,mysql" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,gcp,aws,cloudflare,postman,npm" />
   </a>
 </p>
 
