@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,gcp,aws,cloudflare,postman,npm" />
+    <img src="https://skillicons.dev/icons?i=git,gcp,aws,cloudflare,postman,npm,docker,apache,vercel,netlify" />
   </a>
 </p>
 
