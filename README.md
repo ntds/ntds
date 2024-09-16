@@ -1,10 +1,5 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on hardware
-- 🌱 I’m currently learning Javascript
-- 📫 How to reach me: ntds@re1.pl
-- 😄 Pronouns: he/him
-
 ## 🌐 Socials:
 
 # 💻 Tech Stack:
